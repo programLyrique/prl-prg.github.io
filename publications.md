@@ -38,6 +38,17 @@ publications:
    - EXPRO
 
  - year: 2026
+   title: "What Do R Benchmarks Measure?: Toward a Performance-Characterized Benchmark Suite for R"
+   authors: "Matěj Kocourek, Filip Říha, Oliver Tušla, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
+   publication: "Proceedings of the 18th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages"
+   short_publication: "VMIL'26"
+   links:
+   - text: PDF
+     link: https://doi.org/10.1145/3840562.3844972
+   grants:
+   - EXPRO
+
+ - year: 2026
    title: "Revisiting Row Polymorphism for Set-Theoretic Types"
    authors: "Mickaël Laurent, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
    publication: "Proceedings of the ACM on Programming Languages, Volume 10, Issue OOPSLA2"
@@ -86,7 +97,7 @@ publications:
  - year: 2025
    title: "Copy-and-Patch Just-in-Time Compiler for R"
    authors: "Matěj Kocourek, Filip Křikava, Jan Vitek"
-   publication: "Proceedings of the 17th Workshop on Virtual Machines and Language Implementations (VMIL) co-located with ICFP/SPLASH 2025"
+   publication: "Proceedings of the 17th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages"
    short_publication: "VMIL'25"
    links:
    - text: PDF
