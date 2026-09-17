@@ -16,6 +16,28 @@ publications:
 
 ##### 2026 #####
  - year: 2026
+   title: "Characterizing Type Feedback in Just-In-Time Compilation"
+   authors: "Sebastián Krynski, Filip Říha, Filip Křikava, Jan Vitek"
+   publication: "40th European Conference on Object-Oriented Programming"
+   short_publication: "ECOOP'26"
+   links:
+   - text: PDF
+     link: https://doi.org/10.4230/LIPIcs.ECOOP.2026.16
+   grants:
+   - EXPRO
+
+ - year: 2026
+   title: "bench: A Programmable Command-Line Framework for Complex Benchmarking Workflows"
+   authors: "Filip Říha, Filip Křikava"
+   publication: "Companion Proceedings of the 2026 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
+   short_publication: "SPLASH Demonstration'26"
+   links:
+   - text: PDF
+     link: https://doi.org/10.1145/3837729.3840502
+   grants:
+   - EXPRO
+
+ - year: 2026
    title: "Revisiting Row Polymorphism for Set-Theoretic Types"
    authors: "Mickaël Laurent, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
    publication: "Proceedings of the ACM on Programming Languages, Volume 10, Issue OOPSLA2"
